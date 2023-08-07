@@ -1,4 +1,4 @@
-def part_two_classifier(data_train, data_test):
+def perceptron_classifier(data_train, data_test):
 	
 	# Training data contains 3 cols per row: X in 
 	# index 0, Y in index 1 and Class in index 2
